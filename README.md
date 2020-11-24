@@ -30,7 +30,7 @@ The Naive Bayes model delivered better results and accuracy when using ‘Catego
 <h1>Visualizations Using Tableau</h1>
 
 Top 20 Categories in Jeopardy
-The top category in Jeopardy is Before and After with 557 different questions within the category. Science is a close second at 551. The lowest appears to be Opera at 299.
+The top category in Jeopardy is Before and After with 557 different questions within the category. Science is a close second at 551. The lowest appears to be the Opera category at 299.
 
 Number of Shows that Air per Year
 2008 had the highest amount at 14,036 shows and 1988 had the lowest at 888 shows. This visualizes how Jeopardy has become more popular over the years with an increasing amount of shows per year. There was an unclear jump in the amount of shows between 1996 and 1997 specifically from 4,891 to 13,099 shows.
